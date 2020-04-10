@@ -8,4 +8,4 @@ This project consist of two recommendation programm
 It is based on Content and filtering as per user need.
 
 # Car Recommendation
-it also based on Content ,filtering and also add extra feature of Recommendation on the basis of the slient features of car and Reviews made by other customer
+it also based on Content ,filtering and also add extra feature of Recommendation on the basis of the features of car and Reviews made by other customer
